@@ -1,0 +1,41 @@
+
+23:54:26
+￼
+getblock 0000000062558fec003bcbf29e915cddfc34fa257dc87573f28e4520d1c7c11e
+
+
+23:54:26
+￼
+{
+  "hash": "0000000062558fec003bcbf29e915cddfc34fa257dc87573f28e4520d1c7c11e",
+  "confirmations": 514227,
+  "height": 0,
+  "version": 1,
+  "versionHex": "00000001",
+  "merkleroot": "e61339a40aa4e90e983fe0d64cf09eed5fa1e6eac227b6761f06ac7af1929baf",
+  "time": 1311305081,
+  "mediantime": 1311305081,
+  "nonce": 3085127155,
+  "bits": "1d00ffff",
+  "difficulty": 1,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000100010001",
+  "nTx": 1,
+  "nextblockhash": "000000002f751a5066b708d65240c63128183fb67e009027f52cac8a6eb4f81a",
+  "strippedsize": 306,
+  "size": 306,
+  "weight": 1224,
+  "tx": [
+    "e61339a40aa4e90e983fe0d64cf09eed5fa1e6eac227b6761f06ac7af1929baf"
+  ]
+}
+
+
+23:55:08
+￼
+getrawtransaction e61339a40aa4e90e983fe0d64cf09eed5fa1e6eac227b6761f06ac7af1929baf
+
+
+23:55:08
+￼
+The genesis block coinbase is not considered an ordinary transaction and cannot be retrieved (code -5)
+
